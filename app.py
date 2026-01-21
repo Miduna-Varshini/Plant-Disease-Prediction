@@ -21,7 +21,7 @@ st.write("Upload a leaf image to predict the disease")
 # -----------------------------
 # GOOGLE DRIVE MODEL DOWNLOAD
 # -----------------------------
-MODEL_URL = "https://drive.google.com/uc?id=YOUR_FILE_ID_HERE"
+MODEL_URL = "https://drive.google.com/file/d/1YEEgM_XQAmuPw-yKfaOicNLH8hFs_g-t/view?usp=sharing"
 MODEL_PATH = "plant_disease_cnn.h5"
 
 @st.cache_resource
